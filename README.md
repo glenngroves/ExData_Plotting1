@@ -1,3 +1,19 @@
+## Repository Contents
+
+This repository has been updated to contain the following files:
+
+plot1.png
+plot1.R - which creates plot1.png
+plot2.png
+plot2.R - which creates plot2.png
+plot3.png
+plot3.R - which creates plot3.png
+plot4.png
+plot4.R - which creates plot4.png
+
+As the deliverables of the following assignment.
+
+
 ## Introduction
 
 This assignment uses data from
